@@ -60,11 +60,11 @@ Searching for a determination that combines creating, creativity and freedom.
 
 ## Experience
 
-** Timm Stade Ski school (Winter 2011/Winter 2012)    
-* Snowboard teacher for students for the age of 6 - 60, coordinating and teaching groups form 10 - 15  people.
-** CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)   
-* Store Manager/Team leader  
-** Vaude Clothing & Gear (Summer 2015)
-* Storage Specialist
-** Solscape Kitchen Team New Zealand (Winter 2015)
-* Member of team (4-6 people) serving up to 200 people per hour
+* Timm Stade Ski school (Winter 2011/Winter 2012)    
+  - Snowboard teacher for students for the age of 6 - 60, coordinating and teaching groups form 10 - 15  people.
+* CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)   
+  - Store Manager/Team leader  
+* Vaude Clothing & Gear (Summer 2015)
+  - Storage Specialist
+* Solscape Kitchen Team New Zealand (Winter 2015)
+  - Member of team (4-6 people) serving up to 200 people per hour
