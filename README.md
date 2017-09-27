@@ -1,6 +1,6 @@
 Sam Ellenrieder
 
-Makers Academy aspirant from Germany, on my way to become a Frontend Developer with real life practical experience in teamwork and leadership.
+Makers Academy aspirant from Germany, on my way to become a Full Stack Developer with real life practical experience in teamwork and leadership.
 After deploying my creativity in various fields, as a hobby, I decided to go for a career in coding.
 Boardsports, Martial Arts and Art enthusiast in the off time.
 Searching for a determination that combines creating, creativity and freedom.
