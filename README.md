@@ -16,7 +16,7 @@ Searching for a determination that combines creating, creativity and freedom.
 - Fluent in English
   10 years of education, reams of stays abroad and over a year of living abroad create well versed skills.
 
-- Basic abilities in French
+- Advanced abilities in French
   4 years of education result in basic language abilities.
 
 - Basic abilities in Spanish
@@ -24,7 +24,7 @@ Searching for a determination that combines creating, creativity and freedom.
 
 #### Team work experience as leader and member
 
-- Working as a store manager/team leader in CH-Cafe Ravensburg presented me with the challenge of      leading four employees as well as taking care of the affiliate. That means keeping a survey of the stocks, creating working schedules that work for every employee and preserving the integrity of the store.
+- Working as a store manager/team leader in CH-Cafe Ravensburg presented me with the challenge of leading four employees as well as taking care of the affiliate. That means keeping a survey of the stocks, creating working schedules that work for every employee and preserving the integrity of the store.
 
 - Being a team member of the Solscape kitchen for four months trained me in keeping calm and doing perfect work under pressure.
 
@@ -41,8 +41,8 @@ Searching for a determination that combines creating, creativity and freedom.
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js, Angular.js, Swift4
+- Rspec, Jasmine, Mocha, Capybara
 
 #### Albert - Einstein Gymnasium Ravensburg (September 2007 - April 2015)
 
@@ -64,7 +64,7 @@ Searching for a determination that combines creating, creativity and freedom.
   - Snowboard teacher for students for the age of 6 - 60, coordinating and teaching groups form 10 - 15  people.
 * CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)   
   - Store Manager/Team leader  
-* Vaude Clothing & Gear (Summer 2015)
+* Vaude Clothing & Gear (June  2015 - September 2015)
   - Storage Specialist
 * Solscape Kitchen Team New Zealand (Winter 2015)
   - Member of team (4-6 people) serving up to 200 people per hour
