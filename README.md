@@ -13,7 +13,7 @@ Searching for a Job that combines creating, creativity and freedom.
 -[Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) written in swift4.
 We worked in a team of 4. It took us 5 days to build.
 
--[Basic Blockchain](https://github.com/Samellenrider/Blockchain)written in python.
+-[Blockchain](https://github.com/Samellenrider/Blockchain) written in python.
 
 #### Language
 
