@@ -11,7 +11,6 @@ Searching for a Job that combines creating, creativity and freedom.
 ####  Programming
 
 -[Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) written in swift4.
-We worked in a team of 4. It took us 5 days to build.
 
 -[Blockchain](https://github.com/Samellenrider/Blockchain) written in python.
 
@@ -24,14 +23,14 @@ We worked in a team of 4. It took us 5 days to build.
 
 #### Team work
 
-
-
-- Working as a store manager/team leader in CH-Cafe Ravensburg presented me with the challenge of leading four employees as well as taking care of the interior.
+- Working on several group projects during makers academy, such as [MakersBnb](https://github.com/Samellenrider/Makersbnb2) (Team of 4),  [Acebook](https://github.com/Samellenrider/acebook-bluejuly2017) (Team of 17) and [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) (Team of 4), helped me developing my teamwork skills in a technical environment.
 
 - Being a team member of the Solscape kitchen for four months trained me in keeping calm and doing perfect work under pressure.
 
 ####  Leadership
 - Through leading/taking part in school committees and acting as a mentor on school trips abroad taught me how to handle responsibilities for my work and others early in my life.
+
+-- Working as a store manager/team leader in CH-Cafe Ravensburg presented me with the challenge of leading four employees as well as taking care of the interior.
 
 #### Teaching
 - Acting as a snowboard teacher at a young age taught me the ability to my skill to someone else. It taught me to use this ability on everyone regardless of their age, origin or gender.
