@@ -1,6 +1,6 @@
 Sam Ellenrieder
 
-Accidently stumbled into programming and enjoyed it.
+Accidentally stumbled into programming and enjoyed it.
 20 year old Junior developer with a passion for design.
 Boardsports, Martial Arts and Art enthusiast in the off time.
 Searching for a Job that combines creativity, learning and freedom.
@@ -10,11 +10,11 @@ Searching for a Job that combines creativity, learning and freedom.
 
 ####  Programming
 
--[Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) written in swift4.
+- [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) written in swift4.
 
--[Blockchain](https://github.com/Samellenrider/Blockchain) written in python.
+- [Blockchain](https://github.com/Samellenrider/Blockchain) written in python.
 
-#### Language
+#### Languages
 
 - Fluent in German
 - Fluent in English
@@ -23,17 +23,17 @@ Searching for a Job that combines creativity, learning and freedom.
 
 #### Team work
 
-- Working on several group projects during Makers Academy, such as [MakersBnb](https://github.com/Samellenrider/Makersbnb2) (Team of 4),  [Acebook](https://github.com/Samellenrider/acebook-bluejuly2017) (Team of 17) and [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) (Team of 4), helped me developing my teamwork skills in a technical environment.
+- I developed my teamworking skills  in a technical environment by working on several group projects during [Makers Academy](http://www.makersacademy.com/), such as [MakersBnb](https://github.com/Samellenrider/Makersbnb2) (Team of 4),  [Acebook](https://github.com/Samellenrider/acebook-bluejuly2017) (Team of 17) and [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) (Team of 4).
 
-- Being a team member of the Solscape kitchen for four months trained me in keeping calm and doing perfect work under pressure.
+- I learned to keep calm and deliver perfect work under pressure by being a team member of the (Solscape)[http://www.solscape.co.nz] kitchen for four months.
 
 ####  Leadership
-- Through leading/taking part in school committees and acting as a mentor on school trips abroad taught me how to handle responsibilities for my work and others early in my life.
+- I got taught how to handle responsibilities for my work and others through leading/taking part in school committees and acting as a mentor on school trips abroad.
 
-- Working as a store manager/team leader in CH-Cafe Ravensburg presented me with the challenge of leading four employees as well as taking care of the interior.
+- I experienced leading and taking care of a team as well as my work place by working as a store manager/team leader in CH-Cafe Ravensburg.
 
 #### Teaching
-- Acting as a snowboard teacher at a young age taught me the ability to my skill to someone else. It taught me to use this ability on everyone regardless of their age, origin or gender.
+- I gained the ability to teach my skills to someone else by acting as a snowboard teacher at a young age. It taught me to use this ability on everyone regardless of their age, origin or gender.
 
 
 ## Education
