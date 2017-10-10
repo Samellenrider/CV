@@ -25,14 +25,16 @@ Searching for a Job that combines creativity, learning and freedom.
 
 - I developed my teamworking skills  in a technical environment by working on several group projects during [Makers Academy](http://www.makersacademy.com/), such as [MakersBnb](https://github.com/Samellenrider/Makersbnb2) (Team of 4),  [Acebook](https://github.com/Samellenrider/acebook-bluejuly2017) (Team of 17) and [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) (Team of 4).
 
-- I learned to keep calm and deliver perfect work under pressure by being a team member of the [Solscape](http://www.solscape.co.nz) kitchen for four months.
+- I learned to stay calm and deliver perfect work under pressure by being a team member of the [Solscape](http://www.solscape.co.nz) kitchen for four months.
 
 ####  Leadership
+
 - I got taught how to handle responsibilities for my work and others through leading/taking part in school committees and acting as a mentor on school trips abroad.
 
 - I experienced leading and taking care of a team as well as my work place by working as a store manager/team leader in CH-Cafe Ravensburg.
 
 #### Teaching
+
 - I gained the ability to teach my skills to someone else by acting as a snowboard teacher at a young age. It taught me to use this ability on everyone regardless of their age, origin or gender.
 
 
