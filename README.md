@@ -1,4 +1,4 @@
-Sam Ellenrieder
+## Sam Ellenrieder
 
 20 year old Junior developer with a passion for design.
 Student at Europe's leading coding bootcamp [Makers Academy](http://www.makersacademy.com/).
