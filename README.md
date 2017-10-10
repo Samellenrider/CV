@@ -41,7 +41,7 @@ Searching for a Job that combines creativity, learning and freedom.
 
 - As a non native english speaker I understand the importance of good communication to get my point across clearly. Working in a foreign country and teaching helped understanding the importance of it at a young age.
 
--I continued to develop this skill in a technical environment through retros and standups at [Makers Academy](http://www.makersacademy.com/).
+- I continued to develop this skill in a technical environment through retros and standups at [Makers Academy](http://www.makersacademy.com/).
 
 
 ## Education
@@ -66,14 +66,13 @@ Searching for a Job that combines creativity, learning and freedom.
 
 ## Experience
 * CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)
-- Store Manager/Team leader
+  - Store Manager/Team leader
 
 * Solscape Kitchen Team New Zealand (Winter 2015-Summer 2016)
 - Member of team (4-6 people) serving up to 200 people per hour
 
-
 * Vaude Clothing & Gear (June  2015 - September 2015)
-- Storage Specialist
+  - Storage Specialist
 
 * Timm Stade Ski school (Winter 2011/Winter 2012)    
   - Snowboard teacher for students for the age of 6 - 60, coordinating and teaching groups form 10 - 15  people.
