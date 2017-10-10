@@ -69,7 +69,7 @@ Searching for a Job that combines creativity, learning and freedom.
   - Store Manager/Team leader
 
 * Solscape Kitchen Team New Zealand (Winter 2015-Summer 2016)
-- Member of team (4-6 people) serving up to 200 people per hour
+  - Member of team (4-6 people) serving up to 200 people per hour
 
 * Vaude Clothing & Gear (June  2015 - September 2015)
   - Storage Specialist
