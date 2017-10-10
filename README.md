@@ -1,8 +1,8 @@
 Sam Ellenrieder
 
-Accidentally stumbled into programming and enjoyed it.
 20 year old Junior developer with a passion for design.
-Boardsports, Martial Arts and Art enthusiast in the off time.
+Student at Europe's leading coding bootcamp [Makers Academy](http://www.makersacademy.com/).
+Boardsports, Martial Arts and Art enthusiast in the spare time.
 Searching for a Job that combines creativity, learning and freedom.
 
 
@@ -37,7 +37,7 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 
 #### Teaching
 
-- I gained the ability to teach my skills to someone else by acting as a snowboard teacher at a young age. It taught me to use this ability on everyone regardless of their age, origin or gender.
+- I became a snowboard teacher at a young age and have become confident sharing my skills with everyone regardless of age, origin or gender.
 
 #### Communication
 
