@@ -12,6 +12,8 @@ Searching for a Job that combines creativity, learning and freedom.
 
 Since the first day of programming, I have enjoyed the complexity and the challenges it gives me every day. Being in a constant state of learning drives me everyday to get the most out of it.
 
+- [Mood tracking chatbot app](https://github.com/Samellenrider/moomood) written in swift 4.
+
 - [Pokemon gyroscope game](https://github.com/Samellenrider/pokeball) written in swift4.
 
 - [Blockchain](https://github.com/Samellenrider/Blockchain) written in python.
