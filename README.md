@@ -52,7 +52,8 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 #### [Makers Academy](http://www.makersacademy.com/) (31.07.2017-20.10.17)
 
 - Curiosity and passion for code
-- Independent learner and problem-solver
+- Independent and fast learner
+- Problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js, Angular.js, Swift4, Python
