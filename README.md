@@ -69,6 +69,7 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 - Team member of committee for politics (2015)
 
 ## Experience
+
 * CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)
   - Store Manager/Team leader
 
@@ -80,3 +81,11 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 
 * Timm Stade Ski school (Winter 2011/Winter 2012)    
   - Snowboard teacher for students for the age of 6 - 60, coordinating and teaching groups form 10 - 15  people.
+  
+ ## Contact
+ 
+- e-mail: sam.ell@web.de
+- mobile: +4915203140182
+- [LinkedIn](https://www.linkedin.com/in/sam-ellenrieder-672329147/)
+- [Medium](https://medium.com/@samellenrieder)
+- [Twitter](https://twitter.com/SamEllenrieder)
