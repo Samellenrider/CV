@@ -1,8 +1,8 @@
 ## Sam Ellenrieder
 
-20 year old Junior developer with a passion for design. Graduated Europe's leading coding bootcamp [Makers Academy](http://www.makersacademy.com/).
+Ambitious junior developer with a passion for design. Graduated Europe's leading coding bootcamp [Makers Academy](http://www.makersacademy.com/).
 Boardsports, Martial Arts and Art enthusiast in the spare time.
-Searching for a Job that combines creativity, learning and freedom.
+Searching for a Job that combines creativity, learning and progression.
 
 
 ## Skills
