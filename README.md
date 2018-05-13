@@ -70,6 +70,10 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 
 ## Experience
 
+* Signicat (January 2018 - Present)
+  - Full-Stack iOS developer
+  - Backend Java developer
+
 * CH-Cafe Ravensburg (Winter 2013-Summer2015/Summer 2016-Summer 2017)
   - Store Manager/Team leader
 
