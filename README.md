@@ -62,7 +62,7 @@ Since the first day of programming, I have enjoyed the complexity and the challe
 #### Albert - Einstein Gymnasium Ravensburg (September 2007 - April 2015)
 
 - Graduation with Abitur (qualification for university)
-- Genaral education with specialization in social studies and biology
+- General education with specialisation in social studies and biology
 - Leader of committee for integration (2014)
 - Leader of committee for beneficence (2014)
 - Leader of committee for sports (2015)    
